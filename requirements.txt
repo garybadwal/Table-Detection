@@ -1,0 +1,12 @@
+cffi==1.15.1
+charset-normalizer==2.1.1
+cryptography==37.0.4
+fuzzywuzzy==0.18.0
+numpy==1.23.2
+opencv-python==4.6.0.66
+pdf2image==1.16.0
+pdfminer.six==20220524
+pdfplumber==0.7.4
+Pillow==9.2.0
+pycparser==2.21
+Wand==0.6.10
